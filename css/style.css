@@ -1,0 +1,66 @@
+body{
+	margin: 0px;
+
+}
+
+.headWrap{
+	position: relative;
+}
+
+.header{
+	       background-color: #2CF4FF;
+	       height:318px;
+		   width: 100%;
+		   opacity: 2;
+		   position: relative;
+	   }
+
+.headerTextLeft{
+	float: left; 	
+	position: fixed;
+	top: 120px;
+	left: 300px;
+}
+
+.headerTextRight{
+	float: right; 	
+	position: fixed;
+	top: 120px;
+	right: 300px;
+}
+
+.profImgDiv{
+	text-align: center;
+	position: fixed;
+	top: -42px;
+	left: 620px;
+
+}
+
+.left-text{
+	position: fixed;
+	text-align: left;
+	top: 130px;
+	left: -500px;
+}
+
+.contentWrapper{
+	left: 40px;
+	position: relative;
+}
+
+.contentHead{
+	text-align: center;
+	top: 50px;
+	width: 300px;
+	background-color: #9EA1A0 ;
+	opacity: 2;
+	position: absolute;
+}
+
+.info{
+	top: 120px;
+	left: 40px;
+	float: left;
+	position: relative;
+}
